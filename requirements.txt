@@ -1,5 +1,0 @@
-telebot
-aiogram
-ultralytics
-opencv-python
-
