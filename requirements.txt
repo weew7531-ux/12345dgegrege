@@ -2,4 +2,4 @@ telebot
 aiogram
 ultralytics
 opencv-python
-numpy
+
