@@ -1,0 +1,4 @@
+aiogram
+ultralytics
+opencv-python
+numpy
